@@ -18,8 +18,8 @@
 
 ---
 ## 📊 GitHub Stats  
-![JaiIn's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEYONGJAE113&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYONGJAE113&layout=compact&theme=default)  
+![LEEYONGJAE1103's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEYONGJAE113&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEEYONGJAE113&layout=compact&theme=radical)  
 ---
 
 ## 📫 Contact Me  
