@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack  
 
-### **📃 Scripts**  
+### **🧾 Scripts**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ### **🛠 Tools & DevOps**  
@@ -24,7 +24,7 @@
 
 ## 📫 Contact Me  
 📧 Email: **ionsi1103@gmail.com**  
-
+📝 Blog: **[Tistory](https://dydwo.tistory.com/)**
 
 
 
