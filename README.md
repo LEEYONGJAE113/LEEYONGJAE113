@@ -25,7 +25,6 @@
 
 ## 📫 Contact Me  
 📧 Email: **ionsi1103@gmail.com**  
-📝 Blog: **[Tistory](https://dydwo.tistory.com/)**
 
 
 
